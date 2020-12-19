@@ -1,0 +1,12 @@
+{
+  "name": "customerapp",
+  "displayName": "customerapp",
+  "expo": {
+    "name": "customerapp",
+    "slug": "customerapp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
